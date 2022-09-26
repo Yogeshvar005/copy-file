@@ -31,7 +31,7 @@ End the program.
 
 with open("MyFile.txt","r") as fp:
     x = fp.read()
-with open("MyFile.txt","w") as fp1:
+with open("MyFile2.txt","w") as fp1:
     fp1.write(x)
 ```
 
